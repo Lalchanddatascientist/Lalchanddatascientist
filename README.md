@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lalchand
+- 👋 Hi, I’m **Lalchand**
+- That is so funny! :joy:😊😊😊
 - ![Lalchand](https://github.com/Lalchanddatascientist/Lalchanddatascientist/blob/main/IMG_20250311_095601.png?raw=true)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
